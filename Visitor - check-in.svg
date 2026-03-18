@@ -1,0 +1,197 @@
+<svg width="1024" height="768" viewBox="0 0 1024 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1024" height="768" fill="#1E1E1E"/>
+<g id="Visitors">
+<path d="M-2883 -234C-2883 -235.105 -2882.1 -236 -2881 -236H3078C3079.1 -236 3080 -235.105 3080 -234V1333C3080 1334.1 3079.1 1335 3078 1335H-2881C-2882.1 1335 -2883 1334.1 -2883 1333V-234Z" fill="#37393C"/>
+<path d="M-2881 -236V-235H3078V-236V-237H-2881V-236ZM3080 -234H3079V1333H3080H3081V-234H3080ZM3078 1335V1334H-2881V1335V1336H3078V1335ZM-2883 1333H-2882V-234H-2883H-2884V1333H-2883ZM-2881 1335V1334C-2881.55 1334 -2882 1333.55 -2882 1333H-2883H-2884C-2884 1334.66 -2882.66 1336 -2881 1336V1335ZM3080 1333H3079C3079 1333.55 3078.55 1334 3078 1334V1335V1336C3079.66 1336 3081 1334.66 3081 1333H3080ZM3078 -236V-235C3078.55 -235 3079 -234.552 3079 -234H3080H3081C3081 -235.657 3079.66 -237 3078 -237V-236ZM-2881 -236V-237C-2882.66 -237 -2884 -235.657 -2884 -234H-2883H-2882C-2882 -234.552 -2881.55 -235 -2881 -235V-236Z" fill="white" fill-opacity="0.1"/>
+<g id="Visitor - check-in " clip-path="url(#clip0_23_244)">
+<rect width="1024" height="768" fill="#F3F4F6"/>
+<g id="Visitor details + Nav bar container">
+<g id="Nav bar ">
+<mask id="path-3-inside-1_23_244" fill="white">
+<path d="M0 0H1024V64H0V0Z"/>
+</mask>
+<path d="M0 0H1024V64H0V0Z" fill="white"/>
+<path d="M1024 64V63H0V64V65H1024V64Z" fill="#E5E7EB" mask="url(#path-3-inside-1_23_244)"/>
+<g id="Company logo">
+<g id="Vector">
+<path d="M53.6692 24.0708C53.3248 24.2975 53.0381 24.6025 52.832 24.9612C52.626 25.3199 52.5063 25.7223 52.4828 26.1361V28.488C52.5063 28.9018 52.626 29.3042 52.832 29.6629C53.0381 30.0216 53.3248 30.3266 53.6692 30.5533L56.124 32.0111C56.775 32.3902 57.3103 32.0792 57.3103 31.3211V23.3516C57.3103 22.5935 56.775 22.2826 56.124 22.6616L53.6692 24.0708Z" fill="#032461"/>
+<path d="M53.4134 31.0629C53.057 30.8841 52.6632 30.7909 52.2638 30.7909C51.8644 30.7909 51.4706 30.8841 51.1141 31.0629L49.152 32.1783C48.8177 32.395 48.5392 32.6867 48.3391 33.0297C48.1391 33.3727 48.0229 33.7575 48 34.1532V36.8856C48 37.6105 48.5198 37.9079 49.152 37.5455L55.8017 33.735C56.4339 33.3725 56.4339 32.7823 55.8017 32.4199L53.4134 31.0629Z" fill="#032461"/>
+<path d="M62.3309 24.0708C62.6752 24.2975 62.9619 24.6025 63.168 24.9612C63.374 25.3199 63.4937 25.7223 63.5172 26.1361V28.488C63.4937 28.9018 63.374 29.3042 63.168 29.6629C62.9619 30.0216 62.6752 30.3266 62.3309 30.5533L59.8712 32.0111C59.2202 32.3902 58.6897 32.0792 58.6897 31.3211V23.3516C58.6897 22.5935 59.2202 22.2826 59.8712 22.6616L62.3309 24.0708Z" fill="#032461"/>
+<path d="M62.3627 31.0629C62.7342 30.8841 63.1447 30.7909 63.5609 30.7909C63.9772 30.7909 64.3877 30.8841 64.7592 31.0629L66.8042 32.1783C67.1521 32.3953 67.4415 32.6871 67.6492 33.0301C67.8569 33.3731 67.9771 33.7578 68 34.1532V36.8856C68 37.6105 67.4631 37.9079 66.8042 37.5455L59.8735 33.735C59.2146 33.3725 59.2146 32.7823 59.8735 32.4199L62.3627 31.0629Z" fill="#032461"/>
+<path d="M52.2434 41.2283C52.6 41.4069 52.994 41.5 53.3937 41.5C53.7933 41.5 54.1873 41.4069 54.544 41.2283L56.5072 40.1099C56.8413 39.8922 57.1191 39.5999 57.3185 39.2566C57.5178 38.9132 57.6331 38.5284 57.6552 38.133V35.4042C57.6552 34.6802 57.1398 34.3833 56.5072 34.7452L49.8537 38.5506C49.2212 38.9126 49.2212 39.502 49.8537 39.8639L52.2434 41.2283Z" fill="#032461"/>
+<path d="M58 38.1352C58.0233 38.5297 58.1437 38.9135 58.3513 39.2558C58.559 39.5981 58.8482 39.8893 59.1958 40.1062L61.2409 41.2285C61.6123 41.407 62.0228 41.5 62.4391 41.5C62.8554 41.5 63.2658 41.407 63.6373 41.2285L66.1265 39.8604C66.7854 39.4987 66.7854 38.9097 66.1265 38.548L59.1958 34.7451C58.5369 34.3834 58 34.6802 58 35.4037V38.1352Z" fill="#032461"/>
+</g>
+<g id="Name">
+<text id="Nexus Technologies" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0px"><tspan x="75.4399" y="36.3636">Nexus Technologies</tspan></text>
+</g>
+</g>
+<g id="ADA logo + text">
+<g id="Text">
+<text id="Visitor check-in" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="487.22" y="37.0909">Visitor check-in</tspan></text>
+</g>
+</g>
+<g id="Date &#38; time">
+<g id="Date">
+<text id="16 March, Monday" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="6.8" letter-spacing="0em"><tspan x="890.663" y="30.4727">16 March,&#10;</tspan><tspan x="896.208" y="38.4727">Monday</tspan></text>
+</g>
+<path id="divider" d="M930 24.25V39.75" stroke="#E5E7EB" stroke-linecap="round"/>
+<g id="Time">
+<text id="09:57" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="-0.62px"><tspan x="938.08" y="36.7709">09:57</tspan></text>
+</g>
+</g>
+</g>
+<g id="Visitor details">
+<g id="Title">
+<g id="Title text">
+<text id="Visitor details_2" fill="#032461" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="123.103" y="138.909">Visitor details</tspan></text>
+</g>
+<g id="Subtext container">
+<text id="Subtext" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="123.023" y="172.818">Please fill in your details to check in</tspan></text>
+</g>
+</g>
+<g id="Input field container">
+<g id="Input field container_2">
+<g id="Compulsory input">
+<g id="Input - row 1">
+<g id="Text input">
+<g id="Label">
+<g id="First name*">
+<text fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="123" y="225.182">First name</tspan></text>
+<text fill="#EF4444" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="195.242" y="225.182">*</tspan></text>
+</g>
+</g>
+<g id="input field">
+<mask id="path-14-inside-2_23_244" fill="white">
+<path d="M123 244C123 238.477 127.477 234 133 234H492C497.523 234 502 238.477 502 244V272C502 277.523 497.523 282 492 282H133C127.477 282 123 277.523 123 272V244Z"/>
+</mask>
+<path d="M123 244C123 238.477 127.477 234 133 234H492C497.523 234 502 238.477 502 244V272C502 277.523 497.523 282 492 282H133C127.477 282 123 277.523 123 272V244Z" fill="white"/>
+<path d="M133 234V235H492V234V233H133V234ZM502 244H501V272H502H503V244H502ZM492 282V281H133V282V283H492V282ZM123 272H124V244H123H122V272H123ZM133 282V281C128.029 281 124 276.971 124 272H123H122C122 278.075 126.925 283 133 283V282ZM502 272H501C501 276.971 496.971 281 492 281V282V283C498.075 283 503 278.075 503 272H502ZM492 234V235C496.971 235 501 239.029 501 244H502H503C503 237.925 498.075 233 492 233V234ZM133 234V233C126.925 233 122 237.925 122 244H123H124C124 239.029 128.029 235 133 235V234Z" fill="#E5E7EB" mask="url(#path-14-inside-2_23_244)"/>
+<g id="Placeholder container" clip-path="url(#clip1_23_244)">
+<text id="Enter first name" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="138.5" y="263.091">Enter first name</tspan></text>
+</g>
+</g>
+</g>
+<g id="Text input_2">
+<g id="Label_2">
+<text id="First name*_2" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="522" y="225.182">Last name</tspan></text>
+</g>
+<g id="input field_2">
+<mask id="path-18-inside-3_23_244" fill="white">
+<path d="M522 244C522 238.477 526.477 234 532 234H891C896.523 234 901 238.477 901 244V272C901 277.523 896.523 282 891 282H532C526.477 282 522 277.523 522 272V244Z"/>
+</mask>
+<path d="M522 244C522 238.477 526.477 234 532 234H891C896.523 234 901 238.477 901 244V272C901 277.523 896.523 282 891 282H532C526.477 282 522 277.523 522 272V244Z" fill="white"/>
+<path d="M532 234V235H891V234V233H532V234ZM901 244H900V272H901H902V244H901ZM891 282V281H532V282V283H891V282ZM522 272H523V244H522H521V272H522ZM532 282V281C527.029 281 523 276.971 523 272H522H521C521 278.075 525.925 283 532 283V282ZM901 272H900C900 276.971 895.971 281 891 281V282V283C897.075 283 902 278.075 902 272H901ZM891 234V235C895.971 235 900 239.029 900 244H901H902C902 237.925 897.075 233 891 233V234ZM532 234V233C525.925 233 521 237.925 521 244H522H523C523 239.029 527.029 235 532 235V234Z" fill="#E5E7EB" mask="url(#path-18-inside-3_23_244)"/>
+<g id="Placeholder container_2" clip-path="url(#clip2_23_244)">
+<text id="Enter first name_2" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="537.5" y="263.091">Enter first name</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Input - email">
+<g id="Text input_3">
+<g id="Label_3">
+<text id="First name*_3" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="123" y="316.182">Email</tspan></text>
+</g>
+<g id="input field_3">
+<mask id="path-22-inside-4_23_244" fill="white">
+<path d="M123 335C123 329.477 127.477 325 133 325H891C896.523 325 901 329.477 901 335V363C901 368.523 896.523 373 891 373H133C127.477 373 123 368.523 123 363V335Z"/>
+</mask>
+<path d="M123 335C123 329.477 127.477 325 133 325H891C896.523 325 901 329.477 901 335V363C901 368.523 896.523 373 891 373H133C127.477 373 123 368.523 123 363V335Z" fill="white"/>
+<path d="M133 325V326H891V325V324H133V325ZM901 335H900V363H901H902V335H901ZM891 373V372H133V373V374H891V373ZM123 363H124V335H123H122V363H123ZM133 373V372C128.029 372 124 367.971 124 363H123H122C122 369.075 126.925 374 133 374V373ZM901 363H900C900 367.971 895.971 372 891 372V373V374C897.075 374 902 369.075 902 363H901ZM891 325V326C895.971 326 900 330.029 900 335H901H902C902 328.925 897.075 324 891 324V325ZM133 325V324C126.925 324 122 328.925 122 335H123H124C124 330.029 128.029 326 133 326V325Z" fill="#E5E7EB" mask="url(#path-22-inside-4_23_244)"/>
+<g id="Placeholder container_3" clip-path="url(#clip3_23_244)">
+<text id="Enter first name_3" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0px"><tspan x="138.5" y="354.091">Enter your email address</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Optional input">
+<g id="divider_2">
+<mask id="path-25-inside-5_23_244" fill="white">
+<path d="M123 413H901V416H123V413Z"/>
+</mask>
+<path d="M123 413V414H901V413V412H123V413Z" fill="#D3D6DA" mask="url(#path-25-inside-5_23_244)"/>
+<g id="Tag">
+<rect x="123" y="403" width="228" height="23" rx="4" fill="#E5E7EB"/>
+<text id="OPTIONAL (SKIP If not needed)" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="600" letter-spacing="0.62px"><tspan x="131" y="418.864">OPTIONAL (SKIP IF NOT NEEDED)</tspan></text>
+</g>
+</g>
+<g id="Input row 4">
+<g id="Text input_4">
+<g id="div">
+<g id="label">
+<text id="Mobile number" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="123" y="450.182">Host</tspan></text>
+</g>
+</g>
+<g id="input">
+<mask id="path-30-inside-6_23_244" fill="white">
+<path d="M123 465C123 459.477 127.477 455 133 455H492C497.523 455 502 459.477 502 465V493C502 498.523 497.523 503 492 503H133C127.477 503 123 498.523 123 493V465Z"/>
+</mask>
+<path d="M123 465C123 459.477 127.477 455 133 455H492C497.523 455 502 459.477 502 465V493C502 498.523 497.523 503 492 503H133C127.477 503 123 498.523 123 493V465Z" fill="white"/>
+<path d="M133 455V456H492V455V454H133V455ZM502 465H501V493H502H503V465H502ZM492 503V502H133V503V504H492V503ZM123 493H124V465H123H122V493H123ZM133 503V502C128.029 502 124 497.971 124 493H123H122C122 499.075 126.925 504 133 504V503ZM502 493H501C501 497.971 496.971 502 492 502V503V504C498.075 504 503 499.075 503 493H502ZM492 455V456C496.971 456 501 460.029 501 465H502H503C503 458.925 498.075 454 492 454V455ZM133 455V454C126.925 454 122 458.925 122 465H123H124C124 460.029 128.029 456 133 456V455Z" fill="#E5E7EB" mask="url(#path-30-inside-6_23_244)"/>
+<g id="input text" clip-path="url(#clip4_23_244)">
+<text id="+64" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="138.5" y="484.091">+64</tspan></text>
+</g>
+</g>
+</g>
+<g id="Text input_5">
+<g id="div_2">
+<g id="label_2">
+<text id="Mobile number_2" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0px"><tspan x="522" y="450.182">Reason for visit</tspan></text>
+</g>
+</g>
+<g id="input_2">
+<mask id="path-34-inside-7_23_244" fill="white">
+<path d="M522 465C522 459.477 526.477 455 532 455H891C896.523 455 901 459.477 901 465V493C901 498.523 896.523 503 891 503H532C526.477 503 522 498.523 522 493V465Z"/>
+</mask>
+<path d="M522 465C522 459.477 526.477 455 532 455H891C896.523 455 901 459.477 901 465V493C901 498.523 896.523 503 891 503H532C526.477 503 522 498.523 522 493V465Z" fill="white"/>
+<path d="M532 455V456H891V455V454H532V455ZM901 465H900V493H901H902V465H901ZM891 503V502H532V503V504H891V503ZM522 493H523V465H522H521V493H522ZM532 503V502C527.029 502 523 497.971 523 493H522H521C521 499.075 525.925 504 532 504V503ZM901 493H900C900 497.971 895.971 502 891 502V503V504C897.075 504 902 499.075 902 493H901ZM891 455V456C895.971 456 900 460.029 900 465H901H902C902 458.925 897.075 454 891 454V455ZM532 455V454C525.925 454 521 458.925 521 465H522H523C523 460.029 527.029 456 532 456V455Z" fill="#E5E7EB" mask="url(#path-34-inside-7_23_244)"/>
+<g id="input text_2" clip-path="url(#clip5_23_244)">
+<text id="+64_2" fill="#9CA3AF" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" letter-spacing="0em"><tspan x="537.5" y="484.091">+64</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="CTA container">
+<rect x="0.5" y="696.5" width="1023" height="71" fill="white"/>
+<rect x="0.5" y="696.5" width="1023" height="71" stroke="#E5E7EB"/>
+<g id="Secondary button">
+<mask id="path-38-inside-8_23_244" fill="white">
+<path d="M48 720C48 714.477 52.4772 710 58 710H153C158.523 710 163 714.477 163 720V744C163 749.523 158.523 754 153 754H58C52.4772 754 48 749.523 48 744V720Z"/>
+</mask>
+<path d="M58 710V711H153V710V709H58V710ZM163 720H162V744H163H164V720H163ZM153 754V753H58V754V755H153V754ZM48 744H49V720H48H47V744H48ZM58 754V753C53.0294 753 49 748.971 49 744H48H47C47 750.075 51.9249 755 58 755V754ZM163 744H162C162 748.971 157.971 753 153 753V754V755C159.075 755 164 750.075 164 744H163ZM153 710V711C157.971 711 162 715.029 162 720H163H164C164 713.925 159.075 709 153 709V710ZM58 710V709C51.9249 709 47 713.925 47 720H48H49C49 715.029 53.0294 711 58 711V710Z" fill="#E5E7EB" mask="url(#path-38-inside-8_23_244)"/>
+<text id="Go Back" fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="73.5859" y="737.818">Go Back</tspan></text>
+</g>
+<g id="button">
+<rect x="841" y="710" width="135" height="44" rx="10" fill="#0846C3"/>
+<text id="Check-in" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="873.266" y="737.818">Check-in</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_23_244">
+<rect width="1024" height="768" fill="white"/>
+</clipPath>
+<clipPath id="clip1_23_244">
+<rect width="348" height="21" fill="white" transform="translate(138.5 247.5)"/>
+</clipPath>
+<clipPath id="clip2_23_244">
+<rect width="348" height="21" fill="white" transform="translate(537.5 247.5)"/>
+</clipPath>
+<clipPath id="clip3_23_244">
+<rect width="747" height="21" fill="white" transform="translate(138.5 338.5)"/>
+</clipPath>
+<clipPath id="clip4_23_244">
+<rect width="348" height="17" fill="white" transform="translate(138.5 470.5)"/>
+</clipPath>
+<clipPath id="clip5_23_244">
+<rect width="348" height="17" fill="white" transform="translate(537.5 470.5)"/>
+</clipPath>
+</defs>
+</svg>

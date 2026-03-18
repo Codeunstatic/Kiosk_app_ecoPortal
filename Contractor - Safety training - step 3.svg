@@ -1,0 +1,200 @@
+<svg width="1024" height="949" viewBox="0 0 1024 949" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1024" height="949" fill="#1E1E1E"/>
+<g id="New Contractors">
+<path d="M-6580 -235C-6580 -236.105 -6579.1 -237 -6578 -237H3660C3661.1 -237 3662 -236.105 3662 -235V1332C3662 1333.1 3661.1 1334 3660 1334H-6578C-6579.1 1334 -6580 1333.1 -6580 1332V-235Z" fill="#37393C"/>
+<path d="M-6578 -237V-236H3660V-237V-238H-6578V-237ZM3662 -235H3661V1332H3662H3663V-235H3662ZM3660 1334V1333H-6578V1334V1335H3660V1334ZM-6580 1332H-6579V-235H-6580H-6581V1332H-6580ZM-6578 1334V1333C-6578.55 1333 -6579 1332.55 -6579 1332H-6580H-6581C-6581 1333.66 -6579.66 1335 -6578 1335V1334ZM3662 1332H3661C3661 1332.55 3660.55 1333 3660 1333V1334V1335C3661.66 1335 3663 1333.66 3663 1332H3662ZM3660 -237V-236C3660.55 -236 3661 -235.552 3661 -235H3662H3663C3663 -236.657 3661.66 -238 3660 -238V-237ZM-6578 -237V-238C-6579.66 -238 -6581 -236.657 -6581 -235H-6580H-6579C-6579 -235.552 -6578.55 -236 -6578 -236V-237Z" fill="white" fill-opacity="0.1"/>
+<g id="Contractor - Safety training - step 3" clip-path="url(#clip0_23_244)">
+<rect width="1024" height="949" fill="#F3F4F6"/>
+<g id="Progress indicator + Safety training container">
+<g id="Progress indicator container">
+<rect x="0.5" y="64.5" width="1023" height="74" stroke="#E5E7EB"/>
+<g id="Progress bar">
+<rect width="1021" height="4" transform="translate(1.5 65.5)" fill="#E5E7EB"/>
+<path id="Progress line" d="M1 65H1020C1021.1 65 1022 65.8954 1022 67C1022 68.1046 1021.1 69 1020 69H1V65Z" fill="#0846C3"/>
+</g>
+<g id="Progress container">
+<rect width="1021" height="68" transform="translate(1.5 69.5)" fill="white"/>
+<g id="Upcoming">
+<g id="div">
+<rect x="141" y="92.5" width="22" height="22" rx="11" fill="#0846C3"/>
+<g id="Component 1">
+<path id="Vector" d="M148.792 103.5L151.083 105.792L155.208 101.208" stroke="white" stroke-width="1.375" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="span">
+<text id="Company details" fill="#0846C3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="171" y="109.318">Company details</tspan></text>
+</g>
+</g>
+<g id="Component 1_2">
+<path id="Vector_2" d="M370.2 99L374.7 103.5L370.2 108" stroke="#0846C3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Upcoming_2">
+<g id="label">
+<rect x="443" y="92.5" width="22" height="22" rx="11" fill="#0846C3"/>
+<g id="number">
+<text id="2" fill="#EBF1FC" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0px"><tspan x="450" y="107.864">2</tspan></text>
+</g>
+</g>
+<g id="span_2">
+<text id="Personal details" fill="#0846C3" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="473" y="109.318">Personal details</tspan></text>
+</g>
+</g>
+<g id="Component 2">
+<path id="Vector_3" d="M666.2 99L670.7 103.5L666.2 108" stroke="#9CA3AF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Active">
+<rect x="725" y="81.5" width="172" height="44" rx="22" fill="#0846C3" fill-opacity="0.1"/>
+<g id="label_2">
+<rect x="739" y="92.5" width="22" height="22" rx="11" fill="#0846C3"/>
+<g id="number_2">
+<text id="2_2" fill="#EBF1FC" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0px"><tspan x="746" y="107.864">2</tspan></text>
+</g>
+</g>
+<g id="Progress text">
+<text id="Safety training" fill="#032461" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="769" y="109.318">Safety training</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Safety training container">
+<g id="Title">
+<g id="Title text">
+<text id="Safety training_2" fill="#032461" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="26" font-weight="bold" letter-spacing="0px"><tspan x="123.037" y="189.909">Safety training</tspan></text>
+</g>
+<g id="Subtext container">
+<text id="Subtext" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="123.125" y="223.818">Carefully review and acknowledge our safety policy to proceed </tspan></text>
+</g>
+</g>
+<g id="Health &#38; security container">
+<g id="Health &#38; safety notice container">
+<rect x="123.5" y="254.5" width="777" height="182.905" rx="11.5" fill="#FFFBEB"/>
+<rect x="123.5" y="254.5" width="777" height="182.905" rx="11.5" stroke="#FDE68A"/>
+<g id="Header">
+<g id="Icon">
+<path id="Vector_4" d="M158 280.25L149.25 296.5H166.75L158 280.25Z" stroke="#92400E" stroke-width="2" stroke-linejoin="round"/>
+<path id="Vector_5" d="M158 286.5V290.25" stroke="#92400E" stroke-width="2" stroke-linecap="round"/>
+<path id="Vector_6" d="M157.904 294.759C158.384 294.759 158.774 294.37 158.774 293.89C158.774 293.409 158.384 293.02 157.904 293.02C157.424 293.02 157.035 293.409 157.035 293.89C157.035 294.37 157.424 294.759 157.904 294.759Z" fill="#92400E"/>
+</g>
+<text id="Health &#38; safety notices" fill="#92400E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="171.72" y="294.818">Health &#38; safety notices</tspan></text>
+</g>
+<g id="text" opacity="0.85">
+<g id="p1">
+<g id="There have been two recorded cases of COVID at this location. Use facemasks where required and sanitize hands as needed.">
+<text fill="#92400E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="172" y="332.818">There have been </tspan><tspan x="657.172" y="332.818"> Use facemasks </tspan><tspan x="172" y="356.818">where required and sanitize hands as needed.</tspan></text>
+<text fill="#92400E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0px"><tspan x="303.516" y="332.818">two recorded cases of COVID at this location.</tspan></text>
+</g>
+</g>
+<g id="P2">
+<g id="The elevator on L4 is undergoing maintenance; this will be completed by the end of business day.">
+<text fill="#92400E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0px"><tspan x="538.656" y="382.723"> this will be completed by the end </tspan><tspan x="172" y="406.723">of business day.</tspan></text>
+<text fill="#92400E" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0px"><tspan x="172" y="382.723">The elevator on L4 is undergoing maintenance;</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<g id="Security acknowledgement container">
+<rect x="123.5" y="454.405" width="777" height="378" rx="11.5" fill="white"/>
+<rect x="123.5" y="454.405" width="777" height="378" rx="11.5" stroke="#E5E7EB"/>
+<g id="Header_2">
+<g id="icon">
+<path id="Vector_7" d="M157 479L150 482.4V487.5C150 492.033 152.917 494.3 157 496C161.083 494.3 164 492.033 164 487.5V482.4L157 479Z" stroke="#032461" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<text id="Security acknowledgement" fill="#032461" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="bold" letter-spacing="0em"><tspan x="170.72" y="493.723">Security acknowledgement</tspan></text>
+</g>
+<g id="Info container">
+<g id="Selector 1">
+<g id="Selector">
+<g id="Group 1">
+<rect id="div_2" x="147.5" y="526.405" width="15" height="15" rx="3.5" fill="#0846C3" stroke="#0846C3"/>
+<path id="Vector_8" d="M150.871 534.292L153.774 537.518L158.613 531.066" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<text id="I acknowledge that I reviewed the HIAA Security awareness presentation." fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="171" y="539.648">I acknowledge that I reviewed the HIAA Security awareness presentation.</tspan></text>
+</g>
+<g id="Selector 2">
+<g id="Selector_2">
+<g id="Selector_3">
+<rect id="div_3" x="147.5" y="576.905" width="15" height="15" rx="3.5" fill="white" stroke="#D8DEE8"/>
+</g>
+<text id="Locking and logging off my workstation when I leave my work area." fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="170" y="590.223">I am responsible for protecting electronic information:</tspan></text>
+</g>
+<g id="Texts">
+<g id="Line 1">
+<text id="Locking and logging off my workstation when I leave my work area._2" fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="187" y="629.148">Locking and logging off my workstation when I leave my work area.</tspan></text>
+</g>
+<g id="Line 2">
+<text id="Not changing settings which disable security features." fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="187" y="672.148">Not changing settings which disable security features.</tspan></text>
+</g>
+<g id="Line 3">
+<text id="Not loading unauthorised software on my workstation." fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="187" y="715.148">Not loading unauthorised software on my workstation.</tspan></text>
+</g>
+<g id="Line 4">
+<text id="Following all guidelines for electronic mail or messaging." fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="187" y="758.148">Following all guidelines for electronic mail or messaging.</tspan></text>
+</g>
+<g id="Line 5">
+<text id="Reporting any security problems to my immediate supervisor." fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="187" y="801.148">Reporting any security problems to my immediate supervisor.</tspan></text>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Nav bar ">
+<mask id="path-42-inside-1_23_244" fill="white">
+<path d="M0 0H1024V64H0V0Z"/>
+</mask>
+<path d="M0 0H1024V64H0V0Z" fill="white"/>
+<path d="M1024 64V63H0V64V65H1024V64Z" fill="#E5E7EB" mask="url(#path-42-inside-1_23_244)"/>
+<g id="Company logo">
+<g id="Vector_9">
+<path d="M53.6692 24.0708C53.3248 24.2975 53.0381 24.6025 52.832 24.9612C52.626 25.3199 52.5063 25.7223 52.4828 26.1361V28.488C52.5063 28.9018 52.626 29.3042 52.832 29.6629C53.0381 30.0216 53.3248 30.3266 53.6692 30.5533L56.124 32.0111C56.775 32.3902 57.3103 32.0792 57.3103 31.3211V23.3516C57.3103 22.5935 56.775 22.2826 56.124 22.6616L53.6692 24.0708Z" fill="#032461"/>
+<path d="M53.4134 31.0629C53.057 30.8841 52.6632 30.7909 52.2638 30.7909C51.8644 30.7909 51.4706 30.8841 51.1141 31.0629L49.152 32.1783C48.8177 32.395 48.5392 32.6867 48.3391 33.0297C48.1391 33.3727 48.0229 33.7575 48 34.1532V36.8856C48 37.6105 48.5198 37.9079 49.152 37.5455L55.8017 33.735C56.4339 33.3725 56.4339 32.7823 55.8017 32.4199L53.4134 31.0629Z" fill="#032461"/>
+<path d="M62.3309 24.0708C62.6752 24.2975 62.9619 24.6025 63.168 24.9612C63.374 25.3199 63.4937 25.7223 63.5172 26.1361V28.488C63.4937 28.9018 63.374 29.3042 63.168 29.6629C62.9619 30.0216 62.6752 30.3266 62.3309 30.5533L59.8712 32.0111C59.2202 32.3902 58.6897 32.0792 58.6897 31.3211V23.3516C58.6897 22.5935 59.2202 22.2826 59.8712 22.6616L62.3309 24.0708Z" fill="#032461"/>
+<path d="M62.3627 31.0629C62.7342 30.8841 63.1447 30.7909 63.5609 30.7909C63.9772 30.7909 64.3877 30.8841 64.7592 31.0629L66.8042 32.1783C67.1521 32.3953 67.4415 32.6871 67.6492 33.0301C67.8569 33.3731 67.9771 33.7578 68 34.1532V36.8856C68 37.6105 67.4631 37.9079 66.8042 37.5455L59.8735 33.735C59.2146 33.3725 59.2146 32.7823 59.8735 32.4199L62.3627 31.0629Z" fill="#032461"/>
+<path d="M52.2434 41.2283C52.6 41.4069 52.994 41.5 53.3937 41.5C53.7933 41.5 54.1873 41.4069 54.544 41.2283L56.5072 40.1099C56.8413 39.8922 57.1191 39.5999 57.3185 39.2566C57.5178 38.9132 57.6331 38.5284 57.6552 38.133V35.4042C57.6552 34.6802 57.1398 34.3833 56.5072 34.7452L49.8537 38.5506C49.2212 38.9126 49.2212 39.502 49.8537 39.8639L52.2434 41.2283Z" fill="#032461"/>
+<path d="M58 38.1352C58.0233 38.5297 58.1437 38.9135 58.3513 39.2558C58.559 39.5981 58.8482 39.8893 59.1958 40.1062L61.2409 41.2285C61.6123 41.407 62.0228 41.5 62.4391 41.5C62.8554 41.5 63.2658 41.407 63.6373 41.2285L66.1265 39.8604C66.7854 39.4987 66.7854 38.9097 66.1265 38.548L59.1958 34.7451C58.5369 34.3834 58 34.6802 58 35.4037V38.1352Z" fill="#032461"/>
+</g>
+<g id="Name">
+<text id="Nexus Technologies" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="12" font-weight="bold" letter-spacing="0px"><tspan x="75.4399" y="36.3636">Nexus Technologies</tspan></text>
+</g>
+</g>
+<g id="ADA logo + text">
+<g id="Text">
+<text id="Contractor check-in" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="0em"><tspan x="472.72" y="37.0909">Contractor check-in</tspan></text>
+</g>
+</g>
+<g id="Date &#38; time">
+<g id="Date">
+<text id="16 March, Monday" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="6.8" letter-spacing="0em"><tspan x="890.663" y="30.4727">16 March,&#10;</tspan><tspan x="896.208" y="38.4727">Monday</tspan></text>
+</g>
+<path id="divider" d="M930 24.25V39.75" stroke="#E5E7EB" stroke-linecap="round"/>
+<g id="Time">
+<text id="09:57" fill="#111827" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="14" font-weight="bold" letter-spacing="-0.62px"><tspan x="938.08" y="36.7709">09:57</tspan></text>
+</g>
+</g>
+</g>
+<g id="CTA container">
+<rect x="0.5" y="877.5" width="1023" height="71" fill="white"/>
+<rect x="0.5" y="877.5" width="1023" height="71" stroke="#E5E7EB"/>
+<g id="Secondary button">
+<mask id="path-51-inside-2_23_244" fill="white">
+<path d="M48 901C48 895.477 52.4772 891 58 891H153C158.523 891 163 895.477 163 901V925C163 930.523 158.523 935 153 935H58C52.4772 935 48 930.523 48 925V901Z"/>
+</mask>
+<path d="M58 891V892H153V891V890H58V891ZM163 901H162V925H163H164V901H163ZM153 935V934H58V935V936H153V935ZM48 925H49V901H48H47V925H48ZM58 935V934C53.0294 934 49 929.971 49 925H48H47C47 931.075 51.9249 936 58 936V935ZM163 925H162C162 929.971 157.971 934 153 934V935V936C159.075 936 164 931.075 164 925H163ZM153 891V892C157.971 892 162 896.029 162 901H163H164C164 894.925 159.075 890 153 890V891ZM58 891V890C51.9249 890 47 894.925 47 901H48H49C49 896.029 53.0294 892 58 892V891Z" fill="#E5E7EB" mask="url(#path-51-inside-2_23_244)"/>
+<text id="Go Back" fill="#6B7280" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="73.5859" y="918.818">Go Back</tspan></text>
+</g>
+<g id="button">
+<rect x="765" y="891" width="211" height="44" rx="10" fill="#0846C3"/>
+<text id="Complete check-in" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" font-size="16" font-weight="600" letter-spacing="0px"><tspan x="797.055" y="918.818">Complete check-in</tspan></text>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_23_244">
+<rect width="1024" height="949" fill="white"/>
+</clipPath>
+</defs>
+</svg>
