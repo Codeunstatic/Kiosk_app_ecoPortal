@@ -75,7 +75,7 @@ html, body, #root {
   gap: 8px;
 }
 .navbar-logo img { width: 20px; height: 20px; object-fit: contain; }
-.navbar-logo span { font-size: 12px; font-weight: 700; color: var(--text); }
+.navbar-logo span { font-size: 16px; font-weight: 700; color: var(--text); }
 
 .navbar-title {
   position: absolute;
@@ -642,7 +642,7 @@ html, body, #root {
 }
 .welcome-navbar-logo { display: flex; align-items: center; gap: 8px; }
 .welcome-navbar-logo img { width: 17px; height: 17px; filter: brightness(10); }
-.welcome-navbar-logo span { font-size: 12px; font-weight: 700; color: white; }
+.welcome-navbar-logo span { font-size: 16px; font-weight: 700; color: white; }
 .welcome-navbar-center { position: absolute; left: 50%; transform: translateX(-50%); font-size: 12px; color: rgba(255,255,255,0.55); }
 .welcome-navbar-center strong { color: rgba(255,255,255,0.85); font-weight: 700; }
 .welcome-navbar-right { display: flex; align-items: center; gap: 10px; }
@@ -682,16 +682,15 @@ html, body, #root {
 .qr-box-wrapper { flex-shrink: 0; }
 .qr-box {
   width: 338px; height: 338px;
-  background: rgba(255,255,255,0.14);
-  border: 1px solid rgba(255,255,255,0.1);
+  border: 1px solid rgba(255,255,255,0.15);
   border-radius: 8px;
   position: relative;
+  overflow: hidden;
   display: flex; align-items: center; justify-content: center;
-  backdrop-filter: blur(20px);
-  -webkit-backdrop-filter: blur(20px);
 }
 .qr-corner {
   position: absolute;
+  z-index: 1;
   width: 28px; height: 28px;
   border-color: #4B8EF5; border-style: solid; border-width: 0;
 }

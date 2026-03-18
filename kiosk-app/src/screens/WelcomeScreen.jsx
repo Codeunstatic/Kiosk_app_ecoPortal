@@ -58,6 +58,10 @@ export default function WelcomeScreen({ onCheckin, onCheckout, onQrScan, qrDisab
         {/* QR scanner */}
         <div className="qr-box-wrapper">
           <div className={`qr-box ${scanState !== 'idle' ? 'qr-box--active' : ''}`} onClick={!qrDisabled ? handleQrClick : undefined} style={{ cursor: qrDisabled ? 'default' : scanState === 'idle' ? 'pointer' : 'default' }}>
+            {/* Frosted glass — blurs the bg image then re-applies the same dark overlay so it matches surrounding area */}
+            <div aria-hidden="true" style={{ position:'absolute', inset:-24, backgroundImage:'url(/bg.jpg)', backgroundSize:'cover', backgroundPosition:'center', filter:'blur(20px)', zIndex:0 }} />
+            <div aria-hidden="true" style={{ position:'absolute', inset:0, background:'rgba(8,18,42,0.82)', zIndex:0 }} />
+            <div aria-hidden="true" style={{ position:'absolute', inset:0, background:'rgba(255,255,255,0.14)', zIndex:0 }} />
             <div className="qr-corner tl" />
             <div className="qr-corner tr" />
             <div className="qr-corner bl" />

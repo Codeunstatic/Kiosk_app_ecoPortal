@@ -85,7 +85,7 @@ export default function FlowSelectorScreen({ onLaunch }) {
           <div style={{ fontSize: 26, fontWeight: 700, color: '#EBF1FC', lineHeight: 1.3, marginBottom: 16 }}>
             Who is checking in?
           </div>
-          <div style={{ fontSize: 14, color: '#EBF1FC', opacity: 0.55, lineHeight: 1.6, marginBottom: 64 }}>
+          <div style={{ fontSize: 14, color: '#EBF1FC', opacity: 0.55, lineHeight: 1.6, marginBottom: 96 }}>
             Select a scenario to experience the check-in flow for a specific user type
           </div>
         </div>
