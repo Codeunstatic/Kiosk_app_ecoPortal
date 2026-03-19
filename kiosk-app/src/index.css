@@ -641,7 +641,7 @@ html, body, #root {
   flex-shrink: 0;
 }
 .welcome-navbar-logo { display: flex; align-items: center; gap: 8px; }
-.welcome-navbar-logo img { width: 17px; height: 17px; filter: brightness(10); }
+.welcome-navbar-logo img { width: 17px; height: 17px; filter: brightness(0) invert(1); }
 .welcome-navbar-logo span { font-size: 16px; font-weight: 700; color: white; }
 .welcome-navbar-center { position: absolute; left: 50%; transform: translateX(-50%); font-size: 12px; color: rgba(255,255,255,0.55); }
 .welcome-navbar-center strong { color: rgba(255,255,255,0.85); font-weight: 700; }
