@@ -240,7 +240,7 @@ export default function App() {
 
     // ── CONTRACTOR SUCCESS ─────────────────────────────────────────────────
     if (screen === SCREENS.CONTRACTOR_SUCCESS) {
-      return <ContractorSuccessScreen onReset={reset} />
+      return <ContractorSuccessScreen isNew={!!data.isNew} onReset={reset} />
     }
 
     return null

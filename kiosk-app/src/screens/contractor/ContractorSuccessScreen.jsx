@@ -3,7 +3,7 @@ import NavBar from '../../components/NavBar'
 
 const RESET_DELAY = 10000
 
-export default function ContractorSuccessScreen({ onReset }) {
+export default function ContractorSuccessScreen({ isNew, onReset }) {
   const [animate, setAnimate] = useState(false)
 
   useEffect(() => {
@@ -42,11 +42,17 @@ export default function ContractorSuccessScreen({ onReset }) {
 
           {/* Body text */}
           <p className="vsuccess-sub" style={{ marginBottom: 28 }}>
-            <span style={{ color: '#9CA3AF' }}>You're all set!</span>
-            {' '}
-            <span style={{ color: 'white' }}>A QR code has been sent to your email for fast check-in next time.</span>
-            {' '}
-            <span style={{ color: '#9CA3AF' }}>Have a safe and productive day.</span>
+            {isNew ? (
+              <>
+                <span style={{ color: '#9CA3AF' }}>You're all set!</span>
+                {' '}
+                <span style={{ color: 'white' }}>A QR code has been sent to your email for fast check-in next time.</span>
+                {' '}
+                <span style={{ color: '#9CA3AF' }}>Have a safe and productive day.</span>
+              </>
+            ) : (
+              <span style={{ color: '#9CA3AF' }}>You're all set. Have a safe and productive day.</span>
+            )}
           </p>
 
           {/* Reminder pill */}
